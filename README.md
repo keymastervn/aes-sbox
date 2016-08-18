@@ -35,7 +35,7 @@ $ aes_sbox -do "encrypt" -mode "CFB" -keysize 32 -file "test_img.jpg"
 ```
 $ aes_sbox -do "decrypt" -mode "CFB" -keysize 32 -file "test_img.jpg"
 ```
-## CFB
+## OFB
 ```
 $ aes_sbox -do "encrypt" -mode "OFB" -keysize 32 -file "test_img.jpg"
 ```
