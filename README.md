@@ -16,8 +16,9 @@ https://golang.org/pkg/crypto/aes/
 - Encrypt a message using aes key
 - Usage: `aes_sbox --help`
 
-After Encryption: Key and encrypted file will be put into *crypto* folder
-After Decryption: The decrypted file will be put into *output* folder with its original extension
+After Encryption: Key and encrypted file will be put into `crypto` folder.
+
+After Decryption: The decrypted file will be put into `output` folder with its original extension.
 
 ## CTR
 ```
